@@ -25,3 +25,8 @@ now you can
 
  ## Package.json
  devdependencies will not get installed on heroku because we are saying we only use that in development
+
+
+
+
+ dotenv solves the issue of different OS having different syntax for environment variables
